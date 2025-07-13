@@ -1,0 +1,106 @@
+body{
+
+}
+
+nav>div>div>a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    padding-top: 20px;
+}
+.nav{
+    color: black;
+}
+.nav>a{
+    color: black;
+    text-decoration: none;
+}
+
+.active>img{
+    /* height: 800px; */
+}
+
+.about{
+    height: 200px;
+}
+
+.cream>img{
+    width: 30px;
+    height: 40px;
+}
+
+.repair{
+    height: 200px;
+    background-color: royalblue;
+    background-image: url(images/screen3d.webp);
+    opacity: 0.9;
+    padding-top: 40px;
+    margin-top: 70px;
+}
+
+.repair_text{
+    margin: 50px 0px 0px 0px;
+    padding-left: 100px;
+}
+.repair_img{
+    margin-top: -250px;
+    padding-left: 50px;
+}
+
+.services_text{
+    text-align: center;
+}
+
+/* .service>img{
+    width: 300px;
+    height: 500px;
+} */
+#rep_1{
+    text-align: end;
+}
+
+.card{
+    box-shadow: 2px 2px;
+}
+
+section.blog{
+    background-color: azure;
+    box-shadow: 50px;
+    /* position: absolute; */
+    /* width: 100%;
+    height: 70%; */
+    /* z-index: 5; */
+}
+
+#form{
+    background-image: url(images/screen1.webp);
+    /* position: relative; */
+    height: 150px;
+    opacity: .9;
+}
+
+#email{
+    width: 300px;
+    border-radius: 12px 0px 0px 12px;
+}
+.form>button{
+    border-radius: 0px 12px 12px 0px;
+}
+footer{
+    margin-top: -30px;
+}
+.footer_lists>ul>li{
+    list-style-type: none;
+    color: black;
+    margin-left: -30px;
+}
+
+.footer_links{
+    text-decoration: none;
+    color: black;
+}
+
+.end{
+   margin-left: 15px; 
+}
